@@ -75,6 +75,7 @@
 2100 "I Know Things Now" - Into The Woods cast
 2100 是日救星  徐佳瑩 (You Made My Day)(LaLa Hsu)
 2100 Mirrors - Justin Timberlake
+2100 Flashlight - Pitch Perfect 2 Soundtrack
 2023-03-06 - Believe - High School Musical cast
 2023-03-06 - Breaking Free - High School Musical Cast
 2023-03-06 The Sign - Ace Of Base
@@ -220,7 +221,6 @@
 2016-09-15_LeannRimes_HowDoILive.txt
 2016-09-14_BrunoMars_MarryYou.txt
 2016-05-02_Paramore_TheOnlyException.txt
-2016-04-30_PitchPerfect2Soundtrack_Flashlight.txt
 2016-02-25_Train-HeySoulSister.txt
 2016-02-25_TaioCruz_Dynamite.txt
 2016-02-20_GleeCast-Journey_DontStopBelievin.txt
