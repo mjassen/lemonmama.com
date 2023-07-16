@@ -1,14 +1,16 @@
-﻿2200 Real Gone - Cars Soundtrack
+2200 惡作劇 - 王藍茵 (惡作劇之吻片尾曲) 
+2200 梁静茹 - 不想睡
+2200 Real Gone - Cars Soundtrack
 2200 Shakira_TryEverything.txt
 2200_CountOnMe_BrunoMars.txt
 2200 BrunoMars_WhenIWasYourMan.txt
 2200_about damn time - Lizzo
 2200_G.E.M.鄧紫棋【透明Selfless】
 2200 靜不下來 - 張韶涵
+2200 Can't Stop the Feeling - Justin Timberlake - Trolls
 2100 savage love — kids bop cast
-2100 惡作劇 - 王藍茵 (惡作劇之吻片尾曲) 
 2100_王若琳_有你的快樂_JoannaWang_YoureHappy.txt
-2100_我最親愛的 - 張惠妹_AMei_MyLovely
+2100_我最親愛的 - 張惠妹_AMei_MyDearest
 2100_國語流行金曲 伴唱 集 (2006-2015).txt
 2100_周杰倫_簡單愛_SimpleLove_JayChou.txt
 2100_TheWeeknd_SaveYourTears.txt
@@ -50,7 +52,6 @@
 2100 - rihanna - Only Girl (In the World)
 2100 —- some things never change — frozen II cast
 2100 - perfect - ed sheeran
-2100 —-can’t stop the feeling - Justin Timberlake (trolls soundtrack)
 2100 BrunoMars_Grenade.txt
 2100 —-waiting on a miracle — Encanto cast
 2100 The Greatest Show - (The Greatest Showman Cast)
@@ -77,6 +78,18 @@
 2100 Mirrors - Justin Timberlake
 2100 Flashlight - Pitch Perfect 2 Soundtrack
 2100 Maggie Chiang Something Wrong? - 江美琪 怎麼了嗎 https://mojim.com/twy100030x25x5.htm 
+2100 聽媽媽的話 - 周杰倫
+2100 - Watch Me Shine - S.H.E
+2100 Bruno Mars - Locked Out Of Heaven
+2023-07-16 - Rachel Platten - Fight Song
+2023-07-16 - Every morning - sugar ray 
+2023-07-16 - 幸福的臉 Farrah Su
+2023-07-16 - You Are The Best - Kim Hsieh (最棒的就是你 - 謝欣芷)
+2023-07-16 - 蕭敬騰 王妃
+2023-07-16 - runaway train - soul asylum
+2023-07-16 this is me - the greatest showman cast
+2023-07-16 rewrite the stars - the greatest showman cast
+2023-07-16 The Other Side - The Greatest Showman cast
 2023-05-27 dear Theodosia -- Hamilton cast
 2023-05-27 James Arthur – say you won't let go
 2023-05-27 Avicii - The Nights
@@ -122,7 +135,6 @@
 2022-10-28-0149 Galaxy Crisis — Joanna Wang
 2022-10-28-0148 The Motorized Scooter Edo - Joanna Wang
 2022-10-28-0147 Baby can I hold you - Hercules Soundtrack
-2022-10-28-0145 Watch Me Shine - S.H.E
 2022-10-28-0144 —-Lala hsu Miss Worry
 2022-10-28-0143 —- R-Chord track (from R-Chord album by artist:R-Chord)
 2022-10-28-0142 —- Just Wanna track (from R-Chord album by artist:R-Chord)
@@ -131,12 +143,7 @@
 2022-10-28-0139 Hebe "日常"
 2022-10-28-0138 練舞功
 2022-10-28-0137 Zen me ban - S.H.E.
-2022-10-28-0136 I’ve gotta feeling / black eyed peas
-2022-10-28-0135 Trolls - I’ve got this feeling 
-2022-10-28-0134 - “Cry for you” -September (September)
-2022-10-28-0133 - 聽媽媽的話 
 2022-10-28-0131 - 蒲公英的約定
-2022-10-28-0130 - My dearest - a-mei Chang
 2022-10-28-0129 - 愛就對了 s.h.e
 2022-10-28-0128 - 心有獨鍾
 2022-10-28-0127 - KTV disc 10 (of ~21) -track 4 — “...huang se de yue luang Xia...” (黃色月亮 吳俊霖)
@@ -160,7 +167,6 @@
 2022-10-28-0109 jian Dan ai - jay chou 周杰倫 簡單愛 
 2022-10-28-0108 - Gotta get through this - Daniel bedingfield
 2022-10-28-0107 - See right through you - DJ Encore
-2022-10-28-0106 - Cry for you - September 
 2022-10-28-0105 - Blue (da ba dee) - Eiffel 65
 2022-10-28-0104 - in a dream - rockell 
 2022-10-28-0103 - Can’t get you out of my head - Kylie minogue sp
@@ -182,7 +188,7 @@
 2020-03-23_FrozenSoundtrack_DoYouWantToBuildASnowman.txt
 2020-03-23_FrozenCast_LoveIsAnOpenDoor.txt
 2020-03-17_江美琪_spinner陀螺.txt
-2020-03-09_S.H.E_美麗新世界.txt
+2020-03-09 S.H.E - Genesis (美麗新世界)
 2020-02-16_南拳媽媽_WhatCanIDo.txt
 2020-01-27_S.H.E_愛就對了.txt
 2020-01-26_戴佩妮_時間快轉.txt
@@ -225,7 +231,6 @@
 2017-07-27-gotye_somebody-that-i-used-to-know.txt
 2017-07-27-BeyonceKnowles_Irreplaceable.txt
 2017-07-27-Adele_SetFireToTheRain.txt
-2017-03-23_JustinTimberlake_CantStopTheFeeling.txt
 2017-02-22_Ylvis_TheFox.txt
 2017-02-15_SesameStreet_ImALittleAirplane.txt
 2017-01-27_TheAntsGoMarching.txt
@@ -233,7 +238,6 @@
 2016-09-30_OldKingGlory.txt
 2016-09-22_HoHey_TheLumineers.txt
 2016-09-21_BryanAdams_IDoItForYou.txt
-2016-09-20_BrunoMars_LockedOutOfHeaven.txt
 2016-09-16_NSync_TearinUpMyHeart.txt
 2016-09-15_LeannRimes_HowDoILive.txt
 2016-09-14_BrunoMars_MarryYou.txt
@@ -366,3 +370,5 @@
 1900 —-Dua Lipa and Elton John rocket Man rocket Man remix
 1900 —-she will be loved - maroon 5
 1900 la vida loca - ricky martin fame
+1900 “Cry for you” -September (September)
+1900 I’ve gotta feeling - black eyed peas
