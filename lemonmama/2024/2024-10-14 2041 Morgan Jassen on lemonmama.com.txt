@@ -12,7 +12,7 @@ This is awkward:
 
 
 
-<a href="uploads/2024-04-23-coffeetable-coaster-before.jpg"><img src="uploads/2024-04-23-coffeetable-coaster-before.jpg" width="200"></a>
+<a href="https://lemonmama.com/lemonmama/2024/uploads/2024-04-23-coffeetable-coaster-before.jpg"><img src="https://lemonmama.com/lemonmama/2024/uploads/2024-04-23-coffeetable-coaster-before.jpg" width="200"></a>
 
 
 
@@ -29,7 +29,7 @@ Would be much better if it had a coaster underneath it. ...
 
 
 
-<a href="uploads/2024-04-23-coffeetable-coaster-after.jpg"><img src="uploads/2024-04-23-coffeetable-coaster-after.jpg" width="200"></a>
+<a href="https://lemonmama.com/lemonmama/2024/uploads/2024-04-23-coffeetable-coaster-after.jpg"><img src="https://lemonmama.com/lemonmama/2024/uploads/2024-04-23-coffeetable-coaster-after.jpg" width="200"></a>
 
 
 
