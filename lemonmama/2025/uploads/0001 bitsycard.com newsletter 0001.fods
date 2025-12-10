@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2025-12-10T11:24:18.641000000</meta:creation-date><dc:date>2025-12-10T16:24:03.449000000</dc:date><meta:editing-duration>PT2H51M58S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="30" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2025-12-10T11:24:18.641000000</meta:creation-date><dc:date>2025-12-10T16:35:52.841000000</dc:date><meta:editing-duration>PT2H53M30S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="30" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -14,7 +14,7 @@
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">13</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -250,7 +250,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2025-12-10">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:21:43.692000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2025-12-10">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:34:20.380000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -297,71 +297,69 @@
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 5</text:p>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string"><text:p>Bitsycard.com Newsletter</text:p><text:p/><text:p>Vol. #0001</text:p><text:p/><text:p>2025-12-10</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 6</text:p><text:p/><text:p>&quot;Dec. 17th at 12 PM [2025], Holiday Sip &amp; Shop at Moonlight and Mindfulness&apos; newest location in The Hive Public Market&quot; [Lowell, MA]  |  https://x.com/GreaterLowellCC/status/1998054514339844186</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 6</text:p>
+      <text:p>Ad 5</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 7</text:p><text:p/><text:p>&quot;... this article that discusses how to ask your boss/company for flexible working arrangements....&quot; via persona Ed Lawrence on LinkedIn  |  https://www.linkedin.com/feed/update/urn:li:activity:7404535354785177601</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 7</text:p>
+      <text:p>Ad 6</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 8 </text:p><text:p/><text:p>&quot;TIAA’s Sastry Durvasula works with older companies—and newer tech&quot; via persona Eoin Higgins |  https://www.itbrew.com/stories/2025/12/08/ai-helps-sastry-durvasula-develop-strategies-for-insurance</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 8</text:p>
+      <text:p>Ad 7</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 9</text:p><text:p/><text:p>&quot;Beyond the Books&quot; blog post by persona John Murzycki  |  https://johnmurzycki.com/2025/11/11/beyond-the-books/</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 9</text:p>
+      <text:p>Ad 8</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 10</text:p><text:p/><text:p>&quot;...Lily Tang Williams... Thanks to ⁦@JeffChidester ...for having me on his show. ...You can listen here at http://1370wfea.com. ...&quot;  |  https://x.com/Lily4Liberty/status/1998794056629977396</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 10</text:p>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string"><text:p>Bitsycard.com Newsletter</text:p><text:p/><text:p>Vol. #0001</text:p><text:p/><text:p>2025-12-10</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 11</text:p><text:p/><text:p>&quot;Southside - Moby with Gwen Stefani&quot;  |  https://theriverboston.com/discover/just-played/</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 11</text:p>
+      <text:p>Ad 9</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 12</text:p><text:p/><text:p>&quot;Saucony Running Shoes 2026 l Triumph 24 AND Hurricane 26&quot; (featuring persona Luca Ciccone) |  &quot;...testing, testing, testing...&quot;  |  https://www.youtube.com/watch?v=CTU99Gq7fOw</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 12</text:p>
+      <text:p>Ad 10</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 13 </text:p><text:p/><text:p>&quot;Oven dies ... while cooking the [Thanksgiving] TURKEY.... Check out the story and the repair.&quot; via persona Brian Rossi  |  https://www.linkedin.com/posts/brian-rossi-8a02775_diy-replace-bake-element-on-samsung-flex-activity-7402832029278425088-lIEW</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 13</text:p>
+      <text:p>Ad 11</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 14</text:p><text:p/><text:p>[nashobaair.com &gt; contact &gt; job opportunities &gt; &quot;Residential Journeyman Electrician&quot;]  |  via nashobaair.com website </text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Ad 14</text:p>
+      <text:p>Ad 12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p>Content 15</text:p><text:p/><text:p>&quot;We are currently in search of [Electrical] technicians&quot; (via Environmental Systems, Inc.) website |  https://esihvac.com/careers/</text:p>
      </table:table-cell>
