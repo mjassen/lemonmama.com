@@ -1,0 +1,292 @@
+~
+Organic unpaid sponsorship plug: 
+OMGWTFBBq1?!! Try GNU Jami Peer-to-peer Messaging app!!?  |  https://jami.net/
+~
+
+#0263
+2026-10-10
+lemonmama.com
+By author Morgan Jassen
+
+
+
+
+Quotation Marks UTF-8 Stuff
+
+
+
+
+Here is a curated list of unicode characters and UTF-8 characters, useful daily for copying and pasting, because lots of these characters don't appear on a standard keyboard.
+
+
+
+-
+“” unicode quotes (unicode style quotes) tags: quotation marks quote marks
+“ 
+”
+
+‘’
+‘
+’
+Note: that right unicode quote (’) I did indeed confirm it is the official apostrophe character on iPhone Notes app. So that is what to use for a standard Unicode apostrophe these days in 2022.
+
+
+
+-
+unicode symbols ordinal st nd rd th 1ˢᵗ 2ⁿᵈ 3ʳᵈ 4ᵗʰ note: actually these are just same as 'unicode superscript' letters. i just combined them here:
+ˢᵗ
+ⁿᵈ
+ʳᵈ
+ᵗʰ
+
+
+
+
+-
+「」 chinese style quote marks
+「
+」
+
+
+
+--- 
+✓ "✓" unicode checkmark check mark
+✓
+
+
+✘ "✘" unicode cross mark crossmark
+✘
+
+
+-
+₷¤ silver bam silver-bam Ye Olden Shells
+₷¤
+₷ is "Spesmilo"
+¤ is "Currency sign"
+Morgan Jassen combines them and calls it Silver bams.
+
+
+-
+¢ cent cents 
+¢
+
+
+-
+Ξ ethereum ether
+Ξ
+
+-
+₿ bitcoin
+₿
+
+
+
+-
+* asterisk:
+*
+✱ heavy asterisk:
+✱
+
+
+
+-
+∕ unicode slash or division character
+∕
+/ compare regular ascii slash character.
+
+
+-
+∞ infinity
+∞
+
+
+-
+• Bullet point (unicode bullet)
+•
+◦	‣	∙,  "•", "◦", "◘", "◙", •, ‣, ◦, ⁃, ⁌, ⁍, ∙
+
+
+-
+™ ® registered r trademark tm
+Doing It Wrong®
+Doing It Wrong™ 
+
+
+-
+© copyright
+©
+
+
+-
+sometimes I want to substitute < and > (greater than and less than) (greater-than and less-than) with characters that look simimlar. and thus I may choose these: ≺ ≻ (unicode "precedes" and "succeds" signs) unicode greater than gt lt gt &lt; &gt; &lt;
+≺≻
+≺
+≻
+
+
+
+-
+commas
+, regular comma
+，comma from iphone Chinese keyboard (also known as "U+FF0C 	FULLWIDTH COMMA")
+
+、 	U+3001 	IDEOGRAPHIC COMMA 	Used in Chinese and Japanese writing systems (see § In other languages, below)
+﹐ 	U+FE50 	SMALL COMMA 	
+﹑ 	U+FE51 	SMALL IDEOGRAPHIC COMMA 	
+､ 	U+FF64 	HALFWIDTH IDEOGRAPHIC COMMA 	
+(examples from my iphone(nonsense words, just examples to get the comma from the chinese keyboard:
+這、星期一
+我，你們
+)
+
+
+
+-
+periods
+。 chinese period. 句號 (jùhào)
+。
+
+
+
+
+-
+superscript 123... x⁰ x¹ x² x³ x⁴ x⁵ x⁶ x⁷ x⁸ x⁹
+x⁰ x¹ x² x³ x⁴ x⁵ x⁶ x⁷ x⁸ x⁹
+⁰¹²³⁴⁵⁶⁷⁸⁹
+
+
+
+-
+alphabet letters - 'Superscript minuscule' 	ᵃ 	ᵇ 	ᶜ 	ᵈ 	ᵉ 	ᶠ 	ᵍ 	ʰ 	ⁱ 	ʲ 	ᵏ 	ˡ 	ᵐ 	ⁿ 	ᵒ 	ᵖ 	𐞥 	ʳ 	ˢ 	ᵗ 	ᵘ 	ᵛ 	ʷ 	ˣ 	ʸ 	ᶻ 
+ᵃᵇ
+
+
+
+-
+some serial numbering conventions:
+Arabic: 1, 2, 3, 4
+Uppercase Roman: I, II, III, IV
+Lowercase Roman: i, ii, iii, iv
+Uppercase Alphabetic: A, B, C, D
+Lowercase Alphabetic: a, b, c, d
+Ordinals: 1st, 2nd, 3rd, 4th
+Word Numbers: One, Two, Three, Four
+Word Ordinals: First, Second, Third, Fourth
+Leading Zeros: 01, 02, 03, 04
+(a), (b), (c) ...
+Emojis for one through ten: 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟 (with spaces in between here: ---> 
+ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟)
+甲 乙 丙 丁 戊 己 庚 辛 壬 癸 ( ㄐㄧㄚˇ ㄧˇ ㄅㄧㄥˇ ㄉㄧㄥ ㄨˋ ㄐㄧˇ ㄍㄥ ㄒㄧㄋ ㄖㄣˊ ㄍㄨㄟˇ )
+
+
+
+
+-
+& Regular ascii ampersand
+﹠ SMALL AMPERSAND
+＆ FULLWIDTH AMPERSAND
+🙲 LIGATURE OPEN ET ORNAMENT
+🙵 SWASH AMPERSAND ORNAMENT
+🙴 HEAVY AMPERSAND ORNAMENT
+
+
+-
+° degree degrees
+°
+
+
+-
+colon
+: regular colon from my keyboard
+: regular iPhone notes colon 
+：main default colon found prominently in _Chinese language keyboard_ of iPhone notes
+
+U+FF1A ： FULLWIDTH COLON, for compatibility with half/full width fonts.
+U+2236 ∶ RATIO, for mathematical usage.
+
+U+A789 ꞉ MODIFIER LETTER COLON, see colon (letter), sometimes used in Windows filenames as it is identical to the colon in the Segoe UI font used for filenames. The colon itself is not permitted as it is a reserved character.
+U+FE13 ︓ PRESENTATION FORM FOR VERTICAL COLON, compatibility character for the Chinese Standard GB 18030.
+U+FE55 ﹕ SMALL COLON, compatibility character for the Chinese National Standard CNS 11643.
+
+
+-
+semicolon
+;regular semicolon from my keyboard.
+；fullwidth semicolon. may or may not be seen in chinese language keyboard.
+
+
+
+-
+U+003F ? QUESTION MARK (normal/ascii question mark)
+U+2047 ⁇ DOUBLE QUESTION MARK
+U+2048 ⁈ QUESTION EXCLAMATION MARK
+U+2049 ⁉ EXCLAMATION QUESTION MARK
+U+FE56 ﹖ SMALL QUESTION MARK
+U+2753 ❓ BLACK QUESTION MARK ORNAMENT
+U+2754 ❔ WHITE QUESTION MARK ORNAMENT
+
+
+-
+Double Exclamation Mark
+‼      seemingly unicode version of Double Exclamation Mark (note may need diff tool to see the difference... weird.)
+‼️      seemingly emoji version of Double Exclamation Mark (note may need diff tool to see the difference... weird.)
+¡      upside-down exclamation mark (spanish language sentence-beginning)
+¡
+
+
+
+
+-
+⚠ warning alert emoji
+⚠
+
+
+-
+🔧 wrench emoji
+🔧
+
+
+-
+⚙ gear emoji
+⚙
+
+-
+🎆🎇✨🎈🎉🎊 party emojis
+🎆🎇✨🎈🎉🎊
+
+
+-
+ellipsis elipsis(sic) three dots 3 dots 3-dots three-dots
+⋯ Mid-line ellipsis
+... AP Format (three periods)
+… some kind of unicode ellipsis i saw on chinese dictionary…cool.
+
+
+-
+🧻 toilet paper emoji
+🧻
+
+
+
+
+
+
+-
+strikethrough characters
+
+a̶b̶c̶d̶e̶f̶g̶h̶i̶j̶k̶l̶m̶n̶o̶p̶q̶r̶s̶t̶u̶v̶w̶x̶y̶z̶`̶~̶!̶@̶#̶$̶%̶^̶&̶*̶(̶)̶-̶_̶=̶+̶;̶:̶'̶"̶,̶<̶.̶>̶/̶?̶1̶2̶3̶4̶5̶6̶7̶8̶9̶0̶A̶B̶C̶D̶E̶F̶G̶H̶I̶J̶K̶L̶M̶N̶O̶P̶Q̶R̶S̶T̶U̶V̶W̶X̶Y̶Z̶
+
+
+
+
+
+-
+note: on Windows 10 OS, 'charmap' is a utility to look up a lot of non-ascii characters. so some unicode characters.
+
+
+
+In conclusion, this has been a curated list of unicode characters and UTF-8 characters that don't appear on a standard keyboad.
+
+
+
+~
